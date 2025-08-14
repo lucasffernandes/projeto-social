@@ -24,3 +24,9 @@
     -  background-size: "cover" cobre a tela inteira.
     -  no-repeat é o valor que faz com que a imagem não repita. 
     -  background-attachmente: fixed faz com que a imagem fique fixada e não dê rolagem lateral.
+
+
+_______________________________________
+
+CONFIGURAR NOVAMENTE O VS CODE E ESCREVER OS CÓDIGOS NA IDE.  -> ERRO: não atualizando automaticamente as
+modificações na pagina web "you tube"
