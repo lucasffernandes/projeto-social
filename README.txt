@@ -28,5 +28,4 @@
 
 _______________________________________
 
-CONFIGURAR NOVAMENTE O VS CODE E ESCREVER OS CÓDIGOS NA IDE.  -> ERRO: não atualizando automaticamente as
-modificações na pagina web "you tube"
+TERMINAR DE FAZER AS PÁGINAS PARA: INSTAGRAM, X E FACEBOOK
